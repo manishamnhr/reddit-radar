@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.02rem;
+  margin: 0;
+  line-height: 1.2rem;
+}
+
+#app {
+  margin: 0 auto;
+  word-break: break-word;
+}
+
+.comment {
+  padding: 1rem 2rem;
+}
+
+.loading {
+  color: #000;
+  font-size: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
